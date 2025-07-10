@@ -96,7 +96,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaydbf&show_icons=true&locale=en&layout=compact" alt="top-langs" width="250" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zaydbf&show_icons=true&locale=en" alt="stats" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaydbf&show_icons=true&locale=en&cache_seconds=1" alt="stats" width="320" />
   <img src="https://streak-stats.demolab.com/?user=zaydbf" alt="streak" width="320" />
 </div>
 
