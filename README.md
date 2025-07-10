@@ -29,9 +29,8 @@
 - My **sleep** schedule ??? Somewhere between “just one more **commit**” and fixing that last **bug** 🐞.... usually by the time the **sun** decides to show up 🌄
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/zaydbenfadhel" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -45,10 +44,11 @@
   </a>
 </p>
 
+
 ---
 
-<h3 align="left">💻 Languages:</h3>
-<p align="left">
+<h3 align="center">💻 Languages:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
@@ -64,8 +64,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
 </p>
 
-<h3 align="left">🧩 Frameworks & Libraries:</h3>
-<p align="left">
+<h3 align="center">🧩 Frameworks & Libraries:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django" />
@@ -75,8 +75,8 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium" />
 </p>
 
-<h3 align="left">🔧 Tools & Platforms:</h3>
-<p align="left">
+<h3 align="center">🔧 Tools & Platforms:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
@@ -87,6 +87,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40" alt="Unreal Engine" />
 </p>
+
 
 
 ---
