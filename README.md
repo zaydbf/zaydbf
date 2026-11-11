@@ -5,8 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ICT+Engineering+Student;Certified+Penetration+Tester+Specialist;Tech+Builder+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=ICT+Engineering+Student;Certified+Penetration+Testing+Specialist;Tech+Builder+%26+Problem+Solver" alt="Typing SVG" />
 </p>
+
 <h3 align="center">
   ICT engineering student at Sup'Com, passionate about building impactful tech projects and exploring the world of CyberSecurity.
 </h3>
@@ -16,25 +17,33 @@
     <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/htb-certified-penetration-testing-specialist.webp" height="120" alt="HTB Certified Penetration Testing Specialist (CPTS)" />
   </a>
   &nbsp;
-  <a href="https://x4yd.notion.site/x4yd-2f2ad571afa581188ce7fd530973f5e6" target="_blank">
-    <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/notion-blog-icon.svg" height="120" alt="x4yd Notion Blog" />
+  <a href="https://profile.hackthebox.com/profile/019c3009-c458-73b6-a809-77e68fc74245?utm_medium=copy_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/htb-profile.svg" height="120" alt="Hack The Box Profile" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaydbf&label=Profile%20views&color=0e75b6&style=flat" alt="zaydbf" />
+  <a href="https://github.com/zaydbf">
+    <img src="https://komarev.com/ghpvc/?username=zaydbf&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://x4yd.notion.site/x4yd-2f2ad571afa581188ce7fd530973f5e6" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-Blog%20%26%20Articles-black?style=flat&logo=notion&logoColor=white" alt="Visit My Notion Blog" />
+  </a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Everything**
-- 📝 I write about security and what I learn on my **[Notion blog](https://x4yd.notion.site/x4yd-2f2ad571afa581188ce7fd530973f5e6)**
-- My **sleep** schedule ??? Somewhere between “just one more **commit**” and fixing that last **bug** 🐞.... usually by the time the **sun** decides to show up 🌄
+- 🌱 I'm currently learning **Everything**
+- 📝 I write about security and what I learn on my **[Notion Blog](https://x4yd.notion.site/x4yd-2f2ad571afa581188ce7fd530973f5e6)**
+- 😴 My **sleep** schedule ??? Somewhere between "just one more **commit**" and fixing that last **bug** 🐞.... usually by the time the **sun** decides to show up 🌄
 
 ---
+
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/zaydbenfadhel" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
@@ -53,10 +62,10 @@
   </a>
 </p>
 
-
 ---
 
 <h3 align="center">💻 Languages:</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
   &nbsp;&nbsp;&nbsp;
@@ -74,6 +83,7 @@
 </p>
 
 <h3 align="center">🧩 Frameworks & Libraries:</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
   &nbsp;&nbsp;&nbsp;
@@ -85,6 +95,7 @@
 </p>
 
 <h3 align="center">🔧 Tools & Platforms:</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
   &nbsp;&nbsp;&nbsp;
@@ -97,16 +108,15 @@
   <img src="https://cdn.simpleicons.org/unrealengine/9B9B9B" width="40" height="40" alt="Unreal Engine" />
 </p>
 
-
-
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="top-langs" height="180" />
-  <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" height="180" />
+  <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" height="180" />
+  <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" height="180" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zaydbf" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=zaydbf" alt="GitHub Streak" />
 </p>
