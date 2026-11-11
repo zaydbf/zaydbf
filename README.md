@@ -5,19 +5,19 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ICT+Engineering+Student;Cybersecurity+Enthusiast;Tech+Builder+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ICT+Engineering+Student;Certified+Penetration+Tester+Specialist;Tech+Builder+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 <h3 align="center">
   ICT engineering student at Sup'Com, passionate about building impactful tech projects and exploring the world of CyberSecurity.
 </h3>
 
 <p align="center">
-  <a href="https://academy.hackthebox.com/achievement/badge/3627573f-d809-11f1-9524-0affe7dfeb45" target="_blank">
+  <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist" target="_blank">
     <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/htb-certified-penetration-testing-specialist.webp" height="120" alt="HTB Certified Penetration Testing Specialist (CPTS)" />
   </a>
   &nbsp;
   <a href="https://x4yd.notion.site/x4yd-2f2ad571afa581188ce7fd530973f5e6" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-x4yd-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Blog" />
+    <img src="https://raw.githubusercontent.com/zaydbf/zaydbf/main/notion-blog-icon.svg" height="120" alt="x4yd Notion Blog" />
   </a>
 </p>
 
